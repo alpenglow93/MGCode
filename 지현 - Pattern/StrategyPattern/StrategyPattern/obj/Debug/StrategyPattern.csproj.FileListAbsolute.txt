@@ -1,0 +1,4 @@
+E:\C sharp\homework 161130\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+E:\C sharp\homework 161130\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+E:\C sharp\homework 161130\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+E:\C sharp\homework 161130\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb

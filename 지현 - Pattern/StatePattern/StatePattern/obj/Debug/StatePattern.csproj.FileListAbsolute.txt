@@ -1,5 +1,0 @@
-E:\C sharp\homework 161130\StatePattern\StatePattern\obj\Debug\StatePattern.csprojResolveAssemblyReference.cache
-E:\C sharp\homework 161130\StatePattern\StatePattern\bin\Debug\StatePattern.exe
-E:\C sharp\homework 161130\StatePattern\StatePattern\bin\Debug\StatePattern.pdb
-E:\C sharp\homework 161130\StatePattern\StatePattern\obj\Debug\StatePattern.exe
-E:\C sharp\homework 161130\StatePattern\StatePattern\obj\Debug\StatePattern.pdb

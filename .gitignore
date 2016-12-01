@@ -1,8 +1,4 @@
-/Pattern/StatePattern/.vs
-/Pattern/StatePattern/*.sln
-/Pattern/StatePattern/StatePattern/bin
-/Pattern/StatePattern/StatePattern/obj
-/Pattern/StrategyPattern/.vs
-/Pattern/StrategyPattern/*.sln
-/Pattern/StrategyPattern/StrategyPattern/bin
-/Pattern/StrategyPattern/StrategyPattern/obj
+.vs
+*.sln
+bin
+obj
